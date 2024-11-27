@@ -5,12 +5,12 @@ I'm Anna Vasylchenko
 Front-end developer
 -------------------
 
-I'm a front-end developer with knowledge of HTML, CSS, Javascript, React, and Typescript. I already have more than a year of experience in programming, and I have a great desire to constantly develop and learn new things. I adeptly handle unexpected situations and assume accountability for assigned tasks. I love working with a team and gaining experience. I stand out for my discipline and time management skills.
+I'm a front-end developer with knowledge of HTML, CSS, Javascript, React, Typescript and Node.js. I already have more than a year of experience in programming, and I have a great desire to constantly develop and learn new things. I adeptly handle unexpected situations and assume accountability for assigned tasks. I love working with a team and gaining experience. I stand out for my discipline and time management skills.
 
 * 🌍  I'm based in Poznań
 * 🖥️  See my portfolio at [my LinkedIn profile](http://www.linkedin.com/in/anna-vasylchenko-093b75282/)
 * ✉️  You can contact me at [anna.vasylchenko2006@gmail.com](mailto:anna.vasylchenko2006@gmail.com)
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on team projects
 * ⚡  I like listening to Rammstein
 
