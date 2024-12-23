@@ -8,7 +8,7 @@ Front-end developer
 I'm a front-end developer with knowledge of HTML, CSS, Javascript, React, Typescript and Node.js. I already have more than a year of experience in programming, and I have a great desire to constantly develop and learn new things. I adeptly handle unexpected situations and assume accountability for assigned tasks. I love working with a team and gaining experience. I stand out for my discipline and time management skills.
 
 * 🌍  I'm based in Poznań
-* 🖥️  See my portfolio at [Here]([https://portfolio-rose-one-80.vercel.app])
+* 🖥️  See my portfolio [Here]([https://portfolio-rose-one-80.vercel.app])
 * ✉️  You can contact me at [anna.vasylchenko2006@gmail.com](mailto:anna.vasylchenko2006@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on team projects
