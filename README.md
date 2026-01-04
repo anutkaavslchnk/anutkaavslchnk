@@ -4,7 +4,7 @@ I'm Anna Vasylchenko
 Fullstack Developer
 -------------------
 
-I'm a fullstack web developer with knowledge of HTML, CSS, Javascript, React, Next.js, Typescript and Node.js. I already have more than a year of experience in programming, and I have a great desire to constantly develop and learn new things. I adeptly handle unexpected situations and assume accountability for assigned tasks. I love working with a team and gaining experience. I stand out for my discipline and time management skills.
+I'm a Fullstack Engineer with knowledge of React, Javascript and Typescript. I have more than a year of experience in application development and I strive to constantly develop and learn new things. I quickly navigate in ambiguous situations and take responsibility for the tasks planned. I stand out for my communication and time management skills. My motivation, discipline, mathematical background and passion for technology will make me a valuable member of your team. I'm eager to join new and interesting projects where I can apply my skills and contribute to the company's success.
 
 - 🖥️  See my portfolio [Here](https://portfolio-rose-one-80.vercel.app)
 - ✉️  You can contact me at [anna.vasylchenko2006@gmail.com](mailto:anna.vasylchenko2006@gmail.com)
