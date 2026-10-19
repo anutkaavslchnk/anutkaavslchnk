@@ -1,10 +1,10 @@
 Anna Vasylchenko
 ========================================================================================================================================
 
-Fullstack Engineer
+Fullstack AI Engineer
 -------------------
 
-I'm a Fullstack Engineer with knowledge of React, Javascript and Typescript. I have more than a year of experience in application development and I strive to constantly develop and learn new things. I quickly navigate in ambiguous situations and take responsibility for the tasks planned. I stand out for my communication and time management skills. My motivation, discipline, mathematical background and passion for technology will make me a valuable member of your team. I'm eager to join new and interesting projects where I can apply my skills and contribute to the company's success.
+I’m a Fullstack Engineer with a focus on AI-powered applications and cloud technologies. I have experience building modern applications using React, Redux, TypeScript, REST APIs, Python, Docker, and Recharts, as well as developing and deploying solutions with AWS services including Amplify, Lambda, S3, DynamoDB, RDS, ECR, CloudWatch, CDK, and Amazon Bedrock. I’m currently a student at Adam Mickiewicz University, continuously developing my expertise in full-stack engineering, artificial intelligence, and cloud computing.
 
 -   See my portfolio [Here](https://portfolio-rose-one-80.vercel.app)
 -   You can contact me at [anna.vasylchenko2006@gmail.com](mailto:anna.vasylchenko2006@gmail.com)
