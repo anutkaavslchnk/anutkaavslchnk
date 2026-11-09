@@ -8,7 +8,6 @@ I'm a Fullstack AI Engineer with over 2 years of professional experience develop
 
 -   See my portfolio [Here](https://portfolio-rose-one-80.vercel.app)
 -   You can contact me at [anna.vasylchenko2006@gmail.com](mailto:anna.vasylchenko2006@gmail.com)
--   I am currently seeking new career opportunities and excited to connect with teams where I can contribute, learn, and grow professionally
 
 ### Skills
 
